@@ -1,0 +1,14 @@
+{
+  "name": "minecraft-discord-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot for fetching Minecraft player and server information.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "discord-buttons": "^3.0.1",
+    "mcstatus": "^1.1.1"
+  }
+}
